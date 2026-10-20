@@ -1,0 +1,13 @@
+PROJECT 9: LAUNCHING A DOCUMENT IN GITHUB
+
+Objective:
+To demonstrate Git version control and team collaboration.
+
+Version 1:
+The original document was created using AWS EC2 and Git commands.
+
+Team Collaboration:
+Team members can propose changes through pull requests.
+
+Conclusion:
+GitHub helps track document versions and manage collaboration.
